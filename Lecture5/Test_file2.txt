@@ -1,0 +1,4 @@
+Ivanov 3000
+Petrov 8000
+Sidorov 10000
+Abramovich 1000000000000000
